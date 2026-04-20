@@ -87,12 +87,3 @@ Proyecto académico - SENATI
 
 ---
 
-## ⭐ Contribuciones
-
-Puedes hacer un fork y enviar un pull request.
-
----
-
-## 📄 Licencia
-
-Uso educativo
