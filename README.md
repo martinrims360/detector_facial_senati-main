@@ -35,7 +35,6 @@ detector_facial_senati-main/
 ├── modelo.xml                 
 ├── rostros.xml                
 ├── camera.py                  
-├── assets/        # 👈 aquí van tus imágenes
 └── README.md
 ```
 
